@@ -1,4 +1,4 @@
-1. Numele complet: Ionescu Lucian;
+1. Numele : Lucian;
 2. Tema proiectului: Locuri de poveste din Romînia pitorească;
 3. Scurtă descriere a proiectului: Site web care prezintă locuri mai puțin cunoscute din Romînia;
 4. Cursul urmat: Web Developer;
