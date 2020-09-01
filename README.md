@@ -1,5 +1,5 @@
 1. Numele : Lucian;
-2. Tema proiectului: Locuri de poveste din Romînia pitorească;
+2. Tema proiectului: Locuri de poveste din Romînia pitorească; --> https://luciandex.github.io/html-css-js-site/index.html
 3. Scurtă descriere a proiectului: Site web care prezintă locuri mai puțin cunoscute din Romînia;
 4. Cursul urmat: Web Developer;
 5. Surse de inspirație:
